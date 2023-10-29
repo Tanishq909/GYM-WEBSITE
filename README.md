@@ -26,7 +26,7 @@
     <h2>Installation</h2>
     <p>To run this project locally, follow these steps:</p>
     <ol>
-      <li>Clone the repository: `git clone https://github.com/your-username/your-repo.git`</li>
+      <li>Clone the repository: `git clone https://github.com/Tanishq909/your-repo.git`</li>
       <li>Open the project folder: `cd your-repo`</li>
       <li>Open the `index.html` file in your preferred web browser.</li>
     </ol>
@@ -37,7 +37,7 @@
     <p>Contributions are welcome! If you'd like to contribute to the project, please follow these steps:</p>
     <ol>
       <li>Fork the repository on GitHub.</li>
-      <li>Clone your forked repository: `git clone https://github.com/your-username/your-repo.git`</li>
+      <li>Clone your forked repository: `git clone https://github.com/Tanishq909/your-repo.git`</li>
       <li>Create a new branch for your feature: `git checkout -b feature-name`</li>
       <li>Make your changes and commit them: `git commit -m 'Description of changes'`</li>
       <li>Push to the branch: `git push origin feature-name`</li>
