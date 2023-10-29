@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
-  <title>Gym Fitness Website</title>
 </head>
 <body>
 
