@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <title>Gym Fitness Website</title>
 </head>
 <body>
@@ -51,7 +50,7 @@
   </section>
 
   <footer>
-    <p>Feel free to explore the code and use it as a foundation for your own projects. If you have any questions or issues, please open an [issue]([https://github.com/Tanishq909/GYM-WEBSITE/your-repo](https://github.com/Tanishq909/GYM-WEBSITE)/issues).</p>
+    <p>Feel free to explore the code and use it as a foundation for your own projects. If you have any questions or issues, please open an [issue]([https://github.com/Tanishq909/GYM-WEBSITE/your-repo].</p>
   </footer>
 
 </body>
